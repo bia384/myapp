@@ -1,7 +1,6 @@
-# myapp
+# Programa cor
 
-A new Flutter project.
-
+Programa desenvolvido como atividade do modulo 2 do curso de desenvolvimento web.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
